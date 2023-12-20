@@ -5,3 +5,5 @@ This is my attempt at cloud resume challenge in AWS. What is Cloud Resume Challe
 
 - [Resume](https://www.devopsbybryan.com) 
 - [Cloud Resume guide ](https://cloudresumechallenge.dev/docs/the-challenge/aws/)
+
+<img width="1368" alt="AWS-Architecture-Cloud-resume-challenge" src="https://github.com/Pedraza57/Cloud_Resume/assets/104877879/0a7f48b0-98b8-43fc-8ac7-8e346bf34963">
